@@ -49,7 +49,7 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
+| `id`      | `id` | **Obrigatório**. O ID do item que você quer |
 
 #### Cria um item
 ```http
