@@ -106,7 +106,7 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 
 Para usar essa ferramenta você precisa acessar a home da api. http://127.0.0.1:8000/api/
 
-Funcao que busca o seu texto para tentar encontrar um título igual ao que você digitou.
+Função que busca o seu texto para tentar encontrar um título igual ao que você digitou.
 
 Aqui você pode ver como ela funciona https://www.django-rest-framework.org/api-guide/filtering/ , porém podemos resumir a função em dois passos. o primeiro ela colhe o que você escrever e segundo tenta fazer um parsing nos objetos. Além disso, ela cria uma rota por padrão ou seja, pode ser consumido facilmente pelo front end.
 
