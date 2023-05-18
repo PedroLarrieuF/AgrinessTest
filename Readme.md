@@ -58,7 +58,7 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. Gerado automáticamente |
+| `id`      | `id` | **Obrigatório**. Gerado automáticamente |
 | `Task name`      | `string` | **Obrigatório**. Nome da Task. |
 | `Descriptions`      | `string` | **Obrigatório**. Descricao da Task.|
 | `Done`      | `boolean` | Validar de a tarefa foi concluída. |
@@ -70,7 +70,7 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. Gerado automáticamente |
+| `id`      | `id` | **Obrigatório**. Gerado automáticamente |
 | `Task name`      | `string` | **Obrigatório**. Nome da Task. |
 | `Descriptions`      | `string` | **Obrigatório**. Descricao da Task.|
 | `Done`      | `boolean` | Validar de a tarefa foi concluída. |
@@ -82,7 +82,7 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. Necessário para informar qual item deverá ser deletado. |
+| `id`      | `id` | **Obrigatório**. Necessário para informar qual item deverá ser deletado. |
 
 
 
