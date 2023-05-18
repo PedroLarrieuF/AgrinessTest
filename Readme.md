@@ -84,6 +84,11 @@ Então antes de tentar fazer um projeto do qual poderia dar problemas ou funcion
 | :---------- | :--------- | :------------------------------------------ |
 | `id`      | `id` | **Obrigatório**. Necessário para informar qual item deverá ser deletado. |
 
+#### Consulta tarefas
+```http
+  GET /api/done_tasks
+```
+
 
 
 
